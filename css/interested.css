@@ -1,0 +1,11 @@
+.interested {
+  padding-left: 3%;
+  max-width: 800px;
+}
+.interested__header {
+  padding-left: 25%;
+}
+.interested__list {
+  list-style-type: lower-alpha;
+}
+

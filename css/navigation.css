@@ -1,0 +1,12 @@
+.navigation {
+  padding-left: 10%;
+}
+.navigation__list {
+  list-style-type: none;
+  font-size: 25px;
+  font-style: oblique;
+}
+.navigation_list--links {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}

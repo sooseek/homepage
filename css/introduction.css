@@ -1,0 +1,12 @@
+.introduction {
+  padding: 5%;
+  margin: 100px 50px;
+  background: rgb(248 129 19 / 24%);
+  border: 2px groove rgba(43, 171, 141, 0.373);
+}
+.introduction__header {
+  padding-left: 15%;
+}
+.introduction__article {
+  color: #000000;
+}
