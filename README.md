@@ -1,9 +1,9 @@
-# Moja pierwsza strona - Mój lajf
+# My first webside.
 
-## Tu się ze mną zapoznasz. Dowiesz się więcej o mnie.
+## Here you will meet me. You will learn more about me.
 
 https://sooseek.github.io/homepage/
 
-## Opis
+## Description
 
-Cześć. Jestem Mateusz. Mam 28 lat i mieszkam w Częstochowie. Postanowiłem rzucić wszystko i... nauczyć się programować. Od zawsze ciągnęło mnie do technologii, lubię wiedzieć jak coś działa i dociekać dlaczego tak, a nie inaczej.Mam w sobie coś z artysty, dlatego wybrałem frontend - lubię widzieć efekty mojej pracy. Poza komputerem, kiedy tylko mogę możecie spotkać mnie na motocyklu. Dlatego jak to mówią fani żużla: *keep full throttle*. I tak właśnie zamierzam gnać przez życie :).
+Hi. My name is Mateusz. I am 28 years old and live in Częstochowa. I decided to drop everything and ... learn to code. I have always been drawn to technology, I like to know how something works and to find out why it works so and not otherwise. I have something of an artist in me, so I chose the frontend - I like to see the effects of my work. Outside of the computer, whenever I can, you can meet me on my motorcycle. That's why, as speedway fans say: * keep full throttle *. And this is what I'm going to run through my life :).
