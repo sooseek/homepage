@@ -1,11 +1,7 @@
-.interested {
-  padding-left: 3%;
-  max-width: 800px;
-}
 .interested__header {
-  padding-left: 25%;
+  color: #fb6d00;
+  text-align: center;
 }
 .interested__list {
   list-style-type: lower-alpha;
 }
-

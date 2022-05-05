@@ -4,15 +4,15 @@
   };
 
   const changeBackground = () => {
-    const button = document.querySelector(".button");
+    const button = document.querySelector(".navigation__button");
     const body = document.querySelector(".body");
     const themeName = document.querySelector(".themeName");
 
     button.addEventListener("click", () => {
       body.classList.toggle("dark");
       themeName.innerText = body.classList.contains("dark")
-        ? "Jasny"
-        : "Ciemny";
+        ? "Jasny kolor tła"
+        : "Ciemny kolor tła";
     });
   };
   const init = () => {
