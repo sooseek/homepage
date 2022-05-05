@@ -1,23 +1,22 @@
 .navigation {
   position: fixed;
   top: 0;
-  width: 100%;
 }
 .navigation__list {
-  display: inline-flex;
+  max-width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow: hidden;
-  border: 1px solid #e7e7e7;
-  background-color: #f3f3f3;
+  background-color: #fb6d00;
 }
 .navigation__list--items {
   float: left;
 }
 
 .navigation_list--links {
-  color: #666;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -31,4 +30,5 @@
 
 .navigation__button {
   border: none;
+  background-color: #fb6d00;
 }

@@ -1,18 +1,10 @@
-.table__caption {
-  color: rgb(56 139 15);
-  font-size: 60px;
-  text-align: center;
-  caption-side: top;
-  background-color: rgb(221 231 182 / 44%);
-  padding: 3% 25%;
-  border-radius: 70%;
-}
 .table {
-  width: 100%;
-  min-height: 400px;
+  max-width: fit-content;
   border-collapse: collapse;
   vertical-align: middle;
   overflow-x: auto;
+  padding: 2px;
+  margin: 10px;
 }
 .table--cell {
   border: 2px solid darkgrey;
@@ -20,9 +12,7 @@
 }
 
 .table__headers {
-  background-color: #dde7b6;
-  font-size: 30px;
-  color: rgb(56 139 15);
+  background-color: #c5f01c;
 }
 .table__row :nth-child(even) {
   background: #eee;
